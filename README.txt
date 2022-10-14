@@ -70,19 +70,3 @@ Our algorithm uses approximately 21 dictionary comprehensions, 11 set comprehens
 
 CONTRIBUTIONS:
 (All mentioned members contributed equally towards implementing the DiemBFT Algorithm in DistAlgo. All members contributed towards designing/developing/fixing/documenting most of the modules/tasks. The following contribution list shows some of the major contributions to specific modules/tasks by the contributors)
-
-
-Vivek Neppalli: 
--- Designed Ledger Tree
--- Designed pruning method for Block Tree
-
-
-Manish Adkar:
--- Developed Main(run_diembft.da) module 
--- Developed Clients and Validators and message passing between each other and the Main module
--- Fault Injection
-
-
-Shubham Sahu:
--- Developed Timeout mechanism and Pacemaker module
--- Developed and integrated Cryptography during message passing and in Safety module
