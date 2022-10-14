@@ -67,6 +67,3 @@ CODE SIZE:
 LANGUAGE FEATURE USAGE:
 Our algorithm uses approximately 21 dictionary comprehensions, 11 set comprehensions, 6 list comprehensions, 3 await statements and about 5 receive handlers.
 
-
-CONTRIBUTIONS:
-(All mentioned members contributed equally towards implementing the DiemBFT Algorithm in DistAlgo. All members contributed towards designing/developing/fixing/documenting most of the modules/tasks. The following contribution list shows some of the major contributions to specific modules/tasks by the contributors)
